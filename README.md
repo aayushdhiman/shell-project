@@ -1,6 +1,8 @@
-# Project 1: Shell
+# Shell
 
-This is the starter code for [Project 1](https://course.ccs.neu.edu/cs3650f22/p1.html).
+Built a shell in C as a project for a systems class. Based off of some starter code, but is almost entirely created by me and a partner in class. 
+
+Completed 10/29/2022.
 
 The [Makefile](Makefile) contains the following targets:
 
@@ -11,5 +13,3 @@ The [Makefile](Makefile) contains the following targets:
 - `make test` - compile and run all the tests
 - `make clean` - perform a minimal clean-up of the source tree
 
-
-The [examples](examples/) directory contains an example tokenizer. It might help.
